@@ -10,7 +10,8 @@
 
 | Image  |Name | Country               | Who am I                    | LinkedIn, GitHub and Twitter|
 |------|--------|-----------------------|--------------------------------|-------------------|
-| <img src="https://avatars.githubusercontent.com/u/98798977?v=4" width="100" height="100"> | Durgesh Kumar Prajapati| India | Open Source Developer | - [LinkedIn](https://www.linkedin.com/in/durgesh4993/) - [GitHub](https://github.com/Durgesh4993) - [Twitter](https://x.com/durgesh4993) |
+| <img src="https://avatars.githubusercontent.com/u/113328020?v=4" width="100" height="100"> |Yagnik Panchal| India | Mobile Application Developer | - [LinkedIn](https://www.linkedin.com/in/yagnikpanchal/), - [GitHub](https://github.com/yagnik2411) - [Twitter](https://x.com/YAGNIK__2411) |
+<img src="https://avatars.githubusercontent.com/u/98798977?v=4" width="100" height="100"> | Durgesh Kumar Prajapati| India | Open Source Developer | - [LinkedIn](https://www.linkedin.com/in/durgesh4993/) - [GitHub](https://github.com/Durgesh4993) - [Twitter](https://x.com/durgesh4993) |
 | <img src="https://avatars.githubusercontent.com/u/145087959?v=4" width="100" height="100"> |Aadil Latif| India | Open Source Enthusiastic | - [LinkedIn](https://www.linkedin.com/in/iaadillatif/), - [GitHub](https://github.com/iaadillatif/) - [Twitter](https://x.com/iaadillatif) |
 | <img src="https://avatars.githubusercontent.com/u/138330699?v=4" width="100" height="100"> | Tushar | India | Open Source Developer | - [LinkedIn](https://linkedin.com/in/tushar1504), - [GitHub](https://github.com/tushargupta1504) - [Twitter](https://twitter.com/tuszhhar) |
 | <img src="https://avatarfiles.alphacoders.com/369/369512.jpg" width="100" height="100"> | Mohammed Ufraan | India | Developer ; Cybersecurity Researcher | - [LinkedIn](https://www.linkedin.com/in/ufraaan/) - [GitHub](https://github.com/moroii69) - [Twitter](https://x.com/Ufraan1) |
